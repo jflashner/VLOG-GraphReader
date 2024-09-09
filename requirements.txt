@@ -1,0 +1,11 @@
+pyautogen
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+chromadb
+markdownify
+requests
+pypdf
