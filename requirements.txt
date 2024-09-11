@@ -9,3 +9,6 @@ chromadb
 markdownify
 requests
 pypdf
+nltk
+sentence-transformers
+mlxtend
